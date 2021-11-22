@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Folasewa",
+      "name": "Folasewa Abdulsalam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37408123?v=4",
+      "profile": "https://github.com/Folasewa",
+      "contributions": [
+        "design",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "XPloreUIs",
+  "projectOwner": "pmcrg-oau",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
